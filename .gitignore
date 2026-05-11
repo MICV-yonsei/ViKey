@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Outputs / caches
+*.jsonl.lock
+output/
+outputs/
+results/
+cache/
+*.pred.jsonl
+
+# Model weights / data
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Logs
+*.log
+wandb/
+
+# Tooling scratch
+.omc/
+.claude/
