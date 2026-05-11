@@ -5,7 +5,7 @@
   <p align="center">
     <h4 align="center">
       <a href="https://dusruddl2.github.io/"><strong>Yeonkyung Lee*</strong></a> ·
-      <strong>Dayun Ju*</strong> ·
+      <a href="https://jdy77.github.io/"><strong>Dayun Ju*</strong></a> ·
       <a href="https://winston1214.github.io/"><strong>Youngmin Kim</strong></a> ·
       <a href="https://seilk.github.io/"><strong>Seil Kang</strong></a> ·
       <a href="https://micv.yonsei.ac.kr/seongjae"><strong>Seong Jae Hwang</strong></a>
